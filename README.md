@@ -65,7 +65,34 @@ This dataset is not real-world data but is structured to reflect realistic custo
 
 ## ✨ Click below file to view the interactive dashboard
 
-📁 Dataset: BIKERS SALES DASHBOARD.xlsm  
+📁 Dataset: [BIKERS SALES DASHBOARD.xlsm](./BIKERS%20SALES%20DASHBOARD.xlsm)
+
+---
+
+#### ⚠️ Important Notice : This project contains **VBA macros (Excel automation code)**
+
+
+Please follow the steps below before opening the file:
+
+#### 🔓 Step 1: Unblock the file
+- Right-click the downloaded Excel file  
+- Click **Properties**  
+- Tick ✔ **Unblock** (if available)  
+- Click **Apply** → OK  
+
+#### 📂 Step 2: Enable macros in Excel
+- Open the file in Microsoft Excel  
+- Click **“Enable Content”** when prompted (yellow security bar)
+
+#### 💡 Why this is needed
+Windows blocks macros by default for security reasons.  
+This is a normal Excel security feature, not an error.
+
+#### 👍 Safe to use
+This file is used only for:
+- Data analysis automation  
+- Dashboard updates  
+- Reporting tasks  
 
 ---
 
