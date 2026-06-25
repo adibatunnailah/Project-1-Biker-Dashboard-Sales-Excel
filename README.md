@@ -1,5 +1,4 @@
-# 🚴‍♂️ Bike Sales Analytics Dashboard
-### 📌 Excel | Data Analysis | Customer Segmentation | VBA Automation
+# 🏍️ Biker Sales Dashboard
 
 ---
 
@@ -20,10 +19,8 @@ The goal is to identify key customer segments and behavioural patterns that driv
 
 ## 🛠️ Tools & Technologies
 - Microsoft Excel (Dashboard & Data Visualization)
-- Pivot Tables & Excel Formulas
-- Data Cleaning & Transformation
-- VBA Macros (Automation)
-- Data Visualization (Charts, KPI Cards, Slicers)
+- Data Cleaning & Transformation (Excel formulas / Pivot Tables)
+- Data Visualization (Charts, KPI cards, slicers)
 
 ---
 
@@ -32,58 +29,44 @@ The goal is to identify key customer segments and behavioural patterns that driv
 The dataset used in this project is a simulated bikers customer sales dataset designed for data analysis practice and portfolio development.
 
 ### 📊 Dataset Overview
-- **Source:** Simulated dataset (educational purpose)
+- **Source:** Simulated dataset (created for educational purposes)
 - **Size:** 1,000 customer records
-- **Format:** CSV / Excel
+- **Format:** CSV
 
 ### 📌 Notes
-This dataset is not real-world data but structured to reflect realistic customer profiles including income, age, occupation, and commute distance.
+This dataset is not real-world data but is structured to reflect realistic customer profiles including income, age, occupation, and commute distance.
 
 ### Key Columns:
-- Age  
-- Gender  
-- Income  
-- Marital Status  
-- Education Level  
-- Occupation  
-- Commute Distance  
-- Region  
+- Age
+- Gender
+- Income
+- Marital Status
+- Education Level
+- Occupation
+- Commute Distance
+- Region
 - Purchase Status (Yes/No)
 
 ---
 
 ## 🔍 Data Cleaning & Preparation
-- Standardized categorical values (Gender, Marital Status)
-- Created Age Bracket segmentation (Adolescent, Middle Age, Old)
-- Grouped data for KPI calculations
-- Built purchase rate (%) metrics
-- Prepared pivot tables for dashboard visualization
-
----
-
-## 🎨 Dashboard Design Theme
-
-### 🌿 Color Palette (Soft & Professional)
-- Primary: `#2A9D8F` (Teal)
-- Secondary: `#264653` (Deep Navy)
-- Accent: `#E76F51` (Soft Coral)
-- Support: `#A7C957` (Sage Green)
-- Background: `#FAFAF9` (Off White)
-- Light Grey: `#E9ECEF`
+- Standardized categorical values for gender
+- Standardized Marital Status labels
+- Created Age Bracket (Adolescent, Middle Age, Old)
+- Grouped data to support KPI calculations (purchase rate by segment)
+- Built calculated fields for purchase rate (%)
 
 ---
 
 ## 📶 Dashboard Preview
 
-<p align="center">
-  <img src="bikers-sales-dashboard.png" width="85%" style="border-radius:10px;">
-</p>
+![Dashboard](bikers-sales-dashboard.png)
 
 ---
 
 ## ✨ Interactive Dashboard File
 
-📁 **Download File:**  
+📁 Dataset:  
 👉 [BIKERS SALES DASHBOARD.xlsm](./BIKERS%20SALES%20DASHBOARD.xlsm)
 
 ---
@@ -95,45 +78,44 @@ This project contains **VBA macros (Excel automation code)**.
 Please follow the steps below before opening the file:
 
 ### 🔓 Step 1: Unblock the file
-- Right-click the downloaded Excel file  
-- Click **Properties**  
-- Tick ✔ **Unblock** (if available)  
-- Click **Apply** → OK  
+- Right-click the downloaded Excel file
+- Click **Properties**
+- Tick ✔ **Unblock** (if available)
+- Click **Apply** → OK
 
 ### 📂 Step 2: Enable macros in Excel
-- Open the file in Microsoft Excel  
+- Open the file in Microsoft Excel
 - Click **“Enable Content”** when prompted (yellow security bar)
 
 ### 💡 Why this is needed
-Windows blocks macros by default for security reasons.  
-This is a normal Excel security feature, not an error.
+Windows blocks macros by default for security reasons. This is a normal Excel security feature, not an error.
 
 ### 👍 Safe to use
 This file is used only for:
-- Data analysis automation  
-- Dashboard updates  
-- Reporting tasks  
+- Data analysis automation
+- Dashboard updates
+- Reporting tasks
 
 ---
 
-## 📊 Key Insights
+## 📊 Analysis & Insights
 
-- 📈 High-income customers are more likely to purchase bikes  
-- 👨‍👩‍👧 Middle-aged group (31–54) shows the highest purchase rate  
-- 🚴 Short commute distance (0–2 miles) has the strongest buying behaviour  
-- 🌍 North America is the top-performing region  
-- 📉 Older age groups show lower purchase probability  
-- 👔 Professionals & skilled manual workers are key buyer segments  
+### Key Findings:
+- 📈 Customers with higher income are more likely to purchase bikes
+- 👨‍👩‍👧 Middle-aged group (31–54) shows highest purchase count
+- 🚴 Short commute distance (0–2 miles) has highest purchase rate
+- 🌍 North America is top-performing region
+- 📉 Older age groups show lower purchase probability
+- 👔 Professionals and skilled workers are key segments
 
 ---
 
 ## 💡 Recommendations
-
-- Focus marketing on middle-aged, high-income customers  
-- Target urban areas with short commute distances  
-- Promote cycling benefits for daily commuters  
-- Re-engage older customer segments with tailored campaigns  
-- Expand marketing in high-performing regions  
+- Focus marketing on middle-aged, high-income customers
+- Target urban areas with short commute distance
+- Promote cycling benefits for daily commuters
+- Improve engagement for older age groups
+- Expand in high-performing regions
 
 ---
 
@@ -142,18 +124,7 @@ This dashboard helps businesses identify high-value customer segments and suppor
 
 ---
 
-## 🎨 Design Principle
-This dashboard uses a **soft, modern, low-glare theme** to ensure readability and reduce visual fatigue during analysis sessions.
-
----
-
 ## 📫 Contact
-
 - **Name:** Adibatunnailah binti Abdul Razak  
 - **Email:** dibarazak2@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/adibatunnailah/
-
----
-
-## ⭐ Note
-This project is part of my Data Analyst Portfolio demonstrating skills in Excel dashboarding, data cleaning, visualization, and storytelling.
