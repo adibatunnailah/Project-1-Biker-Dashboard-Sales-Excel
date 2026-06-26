@@ -60,7 +60,7 @@ Age, Gender, Income, Marital Status, Education Level, Occupation, Commute Distan
 This Excel file contains VBA macros for automation.
 
 ### Steps to open:
-1. Right-click file → Properties  
+1. Right-click file → Properties (General - Security)
 2. Tick **Unblock** (if available) → Apply  
 3. Open in Excel  
 4. Click **Enable Content** when prompted (above)
